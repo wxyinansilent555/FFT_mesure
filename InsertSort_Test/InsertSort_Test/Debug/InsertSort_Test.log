@@ -1,0 +1,3 @@
+﻿  源.cpp
+C:\Users\此间兮若流年\Desktop\训练题\声源定位（傅里叶变换）\InsertSort_Test\InsertSort_Test\源.cpp(34,12): warning C4477: “printf”: 格式字符串“%f”需要类型“double”的参数，但可变参数 1 拥有了类型“clock_t”
+  InsertSort_Test.vcxproj -> C:\Users\此间兮若流年\Desktop\训练题\声源定位（傅里叶变换）\InsertSort_Test\Debug\InsertSort_Test.exe
